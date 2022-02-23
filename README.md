@@ -3,10 +3,13 @@
 
 ## Description
 
-This app should put one window inside another, allowing the user to view multiple sources at once.
+This app puts one window inside another, allowing the user to view multiple sources at once. If you need to keep an eye on another window, such as an idle game, you can throw it up in a smaller window inside your main window so you can keep track of your DPS or cookies or whatever else while you're working. 
+
+It could potentially be used to follow along with YouTube tutorials (especially on a laptop, if you're travelling and don't have access to your usual multi-monitor setup), but the resolution of the second screen might need to be increased for that. Especially if you need to read anything.
+
 
 Screenshot coming soon...
-![Screenshot](https://github.com/ERion42/PicInPic/blob/7b0d46606e3cd9ab6cee0833d9955c7a9dfba13a/screenMockup.png)
+![Screenshot](https://github.com/ERion42/PicInPic/blob/ef5bf4add3cdee996bb61c9fda968e2489c01dc8/screenShot.png)
 
 ## Table of Contents 
 
